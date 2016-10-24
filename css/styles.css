@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color:rgb(180, 0, 0);;
+  font-family: monospace;
+}
+
+p {
+  color:#b8c4d8;
+  font-family: comic;
+}
+
+ul {
+  color:#b8c4d8;
+  font-family: comic;
+}
+
+ol{
+  color:#b8c4d8
+}
+
+strong {
+  color:white;
+}
